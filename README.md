@@ -4,7 +4,7 @@
 
 [Brief Introduction]
 
-I am Lewis, a dedicated professional embarking on a transformative journey into the field of cybersecurity with a focus on becoming a SOC analyst. With a robust background in [mention your previous career or relevant experience], I bring a unique blend of [specific skills or knowledge] that I am eager to leverage in the realm of cybersecurity.
+I am Lewis, a dedicated professional embarking on a transformative journey into the field of cybersecurity with a focus on becoming a SOC analyst. With a robust background in Banking & Finance, Blockchain, Digital Marketing, Sales and Business Development, I bring a unique blend of being able to  that I am eager to leverage in the realm of cybersecurity.
 
 Driven by a passion for problem-solving and a commitment to safeguarding digital environments, my transition to cybersecurity is fueled by the desire to contribute to proactive threat detection and incident response strategies within SOC operations. I am adept at [mention any relevant technical skills or tools] and possess a solid foundation in [mention any relevant certifications or coursework].
 
